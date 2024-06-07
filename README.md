@@ -10,7 +10,7 @@ In this work, we introduce DeepStack, a simple and effective strategy for provid
 - [ ] Release pre-trained models
 
 
-## DeepStack LLM
+## DeepStack LMM
 ![teaser](assets/deepstack_teaser.png)
 
 ## DeepStack Architecture
