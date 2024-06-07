@@ -1,6 +1,6 @@
 # <i>DeepStack</i>: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs
 
-### [Project Page](https://deepstack-vl.github.io/) | [Paper (ArXiv)]()
+### [Project Page](https://deepstack-vl.github.io/) | [Paper (ArXiv)](https://arxiv.org/abs/2406.04334)
 
 In this work, we introduce DeepStack, a simple and effective strategy for providing informative visual information by stacking visual tokens from bottom to top, maintaining the same visual context length.
 
@@ -31,3 +31,10 @@ DeepStack-V: DeepStack for ViTs. We apply similar sampling strategy but feed the
 If you find our work helpful for your research, please consider citing the following BibTeX entry.   
 
 ```bibtex
+@misc{meng2024deepstack,
+      title={DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs}, 
+      author={Meng, Lingchen and Yang, Jianwei and Tian, Rui and Dai, Xiyang and Wu, Zuxuan and Gao, Jianfeng and Jiang, Yu-Gang}
+      publisher={arXiv:2406.04334},
+      year={2024},
+}
+
