@@ -13,7 +13,6 @@ In this work, we introduce DeepStack, a simple and effective strategy for provid
 
 ## Contents
 - [Install](#install)
-- [DeepStack Weights](#deepstack-weights)
 - [Train](#train)
 - [Evaluation](#evaluation)
 - [Model Zoo](docs/MODEL_ZOO.md)
@@ -49,7 +48,7 @@ huggingface-cli login --token your/hf/tokens
 
 ## Train
 ```
-
+# Coming soon
 ```
 
 ## Evaluation
