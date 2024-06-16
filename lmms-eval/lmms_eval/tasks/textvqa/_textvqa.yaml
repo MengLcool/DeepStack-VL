@@ -1,0 +1,5 @@
+group: textvqa
+task:
+- textvqa_val
+- textvqa_test
+- textvqa_val_noocr
